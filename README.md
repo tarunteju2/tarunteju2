@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarun
-- 👀 I’m interested in 🐍,JS
+- 👀 I’m interested in Web Developing,🐍
 - 🌱 I’m currently learning 🐍,JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
