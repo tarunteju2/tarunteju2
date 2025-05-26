@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br>- 📚 I'm currently learning D3<br>- ⚡ In my free time I listen draw,music</p>
+<p align="left">I'm ... from ....<br>- 📚 I'm currently Building Projects on Apache Flink <br>- ⚡ In my free time I listen draw,music</p>
 
 ###
 
