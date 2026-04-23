@@ -1,133 +1,188 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=5BFF4E&center=true&vCenter=true&width=900&height=80&lines=%E2%96%88+LOADING+TARUN.EXE...;%E2%96%88+MINING+DATA+PIPELINES+%5BOK%5D;%E2%96%88+SPAWNING+KAFKA+BROKERS+%5BOK%5D;%E2%96%88+WELCOME+TO+THE+DATA+REALM+%F0%9F%97%A1%EF%B8%8F" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b00,50:2d9e00,100:5BFF4E&height=200&section=header&text=TARUN%20TARIKERE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%2F%2F%20Pipeline%20Architect%20%2F%2F%20Block%20by%20Block&descAlignY=62&descSize=16" width="100%"/>
-
-</div>
-
----
+<!--
+  ╭───────────────────────────────────────────────╮
+  │  Morphism README · Tarun Tarikere Venkatesha   │
+  │  Theme: Glassmorphism + Neumorphism + Aurora   │
+  ╰───────────────────────────────────────────────╯
+-->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunteju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d9e00?style=for-the-badge&logo=hugo&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/tarunteju3-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunteju3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunteju2)
+<!-- ╭─ GLASSMORPHISM HEADER ─────────────────────────────────╮ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Tarun%20Tarikere&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Engineer%20·%20Pipeline%20Architect%20·%20Streaming%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=tarunteju&style=for-the-badge&color=5BFF4E&label=ADVENTURERS)
-![Status](https://img.shields.io/badge/status-mining%20data-5BFF4E?style=for-the-badge)
-![Years](https://img.shields.io/badge/XP-2%2B%20years-FFD700?style=for-the-badge)
+<a href="https://github.com/tarunteju2">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&height=54&lines=Designing+real-time+data+platforms+%E2%9A%A1;Turning+chaos+into+clean+pipelines+%F0%9F%8C%8A;if+it's+not+observable%2C+it's+not+in+prod." alt="Typing header"/>
+</a>
+
+<br/>
+
+<!-- ╭─ FROSTED-GLASS SOCIAL PANEL ───────────────────────────╮ -->
+<a href="https://linkedin.com/in/tarunteju"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a"/></a>
+<a href="mailto:tarunteju3@gmail.com"><img src="https://img.shields.io/badge/tarunteju3-%23EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://github.com/tarunteju2"><img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=0f172a"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-%238B5CF6?style=flat-square&logo=hugo&logoColor=white&labelColor=0f172a"/></a>
+<img src="https://komarev.com/ghpvc/?username=tarunteju&style=flat-square&color=8B5CF6&label=VISITORS&labelColor=0f172a"/>
 
 </div>
 
----
+<br/>
 
-## 🪵 `> PLAYER CARD`
+<!-- ╭─ GLASS CARD · ABOUT ───────────────────────────────────╮ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="28"/> &nbsp;About
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
+```yaml
+╭─── player ──────────────────────────────────────╮
+│  name     : Tarun Tarikere Venkatesha           │
+│  role     : Data Engineer @ Outamation          │
+│  biome    : Jersey City, NJ · 40.72°N, 74.04°W  │
+│  stack    : Python · SQL · Spark · Kafka ·      │
+│             Airflow · dbt · AWS · Iceberg       │
+│  focus    : AI-driven mortgage doc pipelines    │
+│  learning : Apache Flink · Stream internals     │
+│  building : Real-time observability platforms   │
+│  mantra   : "if it's not observable, it's       │
+│              not in prod."                      │
+│  fuel     : ☕ coffee · 🎧 lofi · 🏴‍☠️ one-piece  │
+╰─────────────────────────────────────────────────╯
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  🗡️  PLAYER: Tarun Tarikere Venkatesha                          ║
-║  🏰  BIOME:  Jersey City, NJ  ➜  lat:40.72  lng:-74.04         ║
-║  ⚔️  CLASS:  Data Engineer (Level 99)                           ║
-║  🧱  STACK:  Python · SQL · Spark · Kafka · Airflow · dbt · AWS ║
-║                                                                  ║
-║  📜 ACTIVE QUESTS:                                               ║
-║     ⛏  Architecting AI-driven mortgage doc pipelines            ║
-║        @ Outamation                                              ║
-║     📖 Deep-diving Apache Flink + stream processing internals    ║
-║     🏗  Building real-time observability platforms               ║
-║        (Prometheus + Grafana + OpenTelemetry)                    ║
-║                                                                  ║
-║  💡 ENCHANTMENT: "if it's not observable, it's not in prod"     ║
-║  ⚗️  FUEL:  ☕ coffee + lofi + the occasional one-piece episode  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
----
+</td>
+<td width="38%" valign="top" align="center">
 
-## ⚒️ `> THE CRAFTING TABLE (Tech Arsenal)`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="110" alt="floppy"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-mining%20data-8B5CF6?style=flat-square&labelColor=0f172a"/>  
+<img src="https://img.shields.io/badge/xp-2%2B%20years-06B6D4?style=flat-square&labelColor=0f172a"/>  
+<img src="https://img.shields.io/badge/open%20to-data%20roles-F472B6?style=flat-square&labelColor=0f172a"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ╭─ NEUMORPHISM TECH STACK ───────────────────────────────╮ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20And%20Wrench.png" width="28"/> &nbsp;Tech Arsenal
 
 <div align="center">
 
-### 🪨 `> LANGUAGES`
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🌊 `> DATA & STREAMING`
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Iceberg](https://img.shields.io/badge/Iceberg-1E90FF?style=for-the-badge&logo=apache&logoColor=white)
+<h4 align="center">💠 &nbsp; Languages</h4>
 
-### ☁️ `> CLOUD & INFRA`
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,bash,md&theme=dark&perline=5"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=a78bfa"/>
+</p>
 
-### 🏺 `> STORAGE`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+<h4 align="center">🌊 &nbsp; Data & Streaming</h4>
 
-### 🔭 `> OBSERVABILITY`
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Kafka-0f172a?style=flat-square&logo=apachekafka&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spark-0f172a?style=flat-square&logo=apachespark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/Flink-0f172a?style=flat-square&logo=apacheflink&logoColor=E6526F"/>
+<img src="https://img.shields.io/badge/Airflow-0f172a?style=flat-square&logo=apacheairflow&logoColor=017CEE"/>
+<img src="https://img.shields.io/badge/dbt-0f172a?style=flat-square&logo=dbt&logoColor=FF694B"/>
+<img src="https://img.shields.io/badge/Iceberg-0f172a?style=flat-square&logo=apache&logoColor=1E90FF"/>
+</p>
+
+<h4 align="center">🗄️ &nbsp; Storage</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Snowflake-0f172a?style=flat-square&logo=snowflake&logoColor=29B5E8"/>
+<img src="https://img.shields.io/badge/Redshift-0f172a?style=flat-square&logo=amazonredshift&logoColor=8C4FFF"/>
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Cassandra-0f172a?style=flat-square&logo=apachecassandra&logoColor=1287B1"/>
+<img src="https://img.shields.io/badge/Elastic-0f172a?style=flat-square&logo=elasticsearch&logoColor=00BFB3"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+<h4 align="center">☁️ &nbsp; Cloud & Infra</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Terraform-0f172a?style=flat-square&logo=terraform&logoColor=7B42BC"/>
+<img src="https://img.shields.io/badge/GH_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+</p>
+
+<h4 align="center">🔭 &nbsp; Observability</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Prometheus-0f172a?style=flat-square&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Grafana-0f172a?style=flat-square&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/Jaeger-0f172a?style=flat-square&logo=jaeger&logoColor=66CFE3"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-0f172a?style=flat-square&logo=opentelemetry&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688"/>
+</p>
+
+<h4 align="center">🤖 &nbsp; ML / AI</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/XGBoost-0f172a?style=flat-square&logo=xgboost&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/YOLO-0f172a?style=flat-square&logo=yolo&logoColor=00FFEE"/>
+<img src="https://img.shields.io/badge/HuggingFace-0f172a?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🏰 `> LEGENDARY BUILDS`
-
-```
- ____________________________________________________
-|  ⛏  STRUCTURE BUILT    | BLOCKS USED             |
-|-----------------------|-------------------------|
-|  observability-plat.  | Kafka · Prom · OTel     |
-|  spotify-intel        | Spark · XGBoost · NLP   |
-|  mortgage-ai          | Lambda · Glue · NLP     |
-|  waste-bot-v1         | YOLO · TF · IoT         |
-|_______________________|_________________________|
-```
+<!-- ╭─ MORPHISM PROJECT CARDS ───────────────────────────────╮ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> &nbsp;Featured Builds
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 `observability-platform/`
-> Real-time insurance claims pipeline —  
+<h3>🔭 &nbsp;<code>observability-platform</code></h3>
+
+> Real-time insurance claims pipeline —
 > **7,700+ claims** across **16 containerised services**
 
 ```diff
 + Kafka · Schema Registry · Pydantic
 + Redis enrichment · SHA-256 idempotency
 + 32 Prometheus metrics · 22 alert rules
-+ OpenTelemetry + Jaeger tracing
++ OpenTelemetry + Jaeger distributed tracing
 + Iceberg lakehouse on MinIO (ACID)
 ! P95 latency < 5s · 70 automated tests
 ```
 
+<p>
+<img src="https://img.shields.io/badge/Kafka-0f172a?style=flat-square&logo=apachekafka&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Prometheus-0f172a?style=flat-square&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-0f172a?style=flat-square&logo=opentelemetry&logoColor=ffffff"/>
+</p>
+
 </td>
 <td width="50%" valign="top">
 
-### 🎵 `spotify-intel/`
-> End-to-end batch pipeline crunching  
+<h3>🎵 &nbsp;<code>spotify-intel</code></h3>
+
+> End-to-end batch pipeline crunching
 > **100K+ songs** via Spotify + Genius APIs
 
 ```diff
@@ -135,15 +190,22 @@
 + Audio-feature recommendation engine
 + NLP-based text feature extraction
 + XGBoost popularity predictor — 82% acc
-! batch → insight in one pipeline
+! batch  →  insight in one pipeline
 ```
+
+<p>
+<img src="https://img.shields.io/badge/Spark-0f172a?style=flat-square&logo=apachespark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/XGBoost-0f172a?style=flat-square&logo=xgboost&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Spotify-0f172a?style=flat-square&logo=spotify&logoColor=1DB954"/>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 `mortgage-ai-classifier/`
+<h3>🏦 &nbsp;<code>mortgage-ai-classifier</code></h3>
+
 > AI-driven NLP pipeline over **50K+ loan docs** @ Outamation
 
 ```diff
@@ -154,11 +216,18 @@
 ! 40% cut in reporting latency
 ```
 
+<p>
+<img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Lambda-0f172a?style=flat-square&logo=awslambda&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/DynamoDB-0f172a?style=flat-square&logo=amazondynamodb&logoColor=4053D6"/>
+</p>
+
 </td>
 <td width="50%" valign="top">
 
-### 🤖 `waste-bot-v1/`
-> Autonomous robot that sorts trash  
+<h3>🤖 &nbsp;<code>waste-bot-v1</code></h3>
+
+> Autonomous robot that sorts trash
 > faster than you judge it
 
 ```diff
@@ -168,53 +237,73 @@
 ! 95% real-time classification accuracy
 ```
 
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/YOLO-0f172a?style=flat-square&logo=yolo&logoColor=00FFEE"/>
+<img src="https://img.shields.io/badge/IoT-0f172a?style=flat-square&logo=arduino&logoColor=00979D"/>
+</p>
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 `> STATS & ACHIEVEMENTS`
+<!-- ╭─ AURORA STATS ─────────────────────────────────────────╮ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;Stats & Achievements
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tarunteju&show_icons=true&count_private=true&hide_border=true&title_color=5BFF4E&icon_color=FFD700&text_color=ffffff&bg_color=0a1a00" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunteju&layout=compact&hide_border=true&title_color=5BFF4E&text_color=ffffff&bg_color=0a1a00&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarunteju&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=F472B6&text_color=e5e7eb&bg_color=0f172a&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunteju&layout=compact&hide_border=true&title_color=A78BFA&text_color=e5e7eb&bg_color=0f172a&langs_count=8"/>
 
-<br>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunteju&hide_border=true&background=0a1a00&stroke=2d9e00&ring=5BFF4E&fire=FFD700&currStreakLabel=5BFF4E&sideNums=ffffff&currStreakNum=ffffff&dates=888888&sideLabels=ffffff" height="165"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunteju&hide_border=true&background=0f172a&stroke=8B5CF6&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideNums=e5e7eb&currStreakNum=e5e7eb&dates=94a3b8&sideLabels=e5e7eb"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunteju&bg_color=0a1a00&color=5BFF4E&line=2d9e00&point=FFD700&area=true&hide_border=true" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunteju&bg_color=0f172a&color=A78BFA&line=8B5CF6&point=F472B6&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Pulse"/>
 
-<br>
+<br/>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=tarunteju&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=tarunteju&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
----
+<br/>
 
-## 🏅 `> ENCHANTED CERTIFICATIONS`
+<!-- ╭─ NEUMORPHISM CERTIFICATIONS ───────────────────────────╮ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/> &nbsp;Certifications
 
 <div align="center">
 
-![Databricks](https://img.shields.io/badge/Databricks_Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_Data_Engineering-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![NJIT](https://img.shields.io/badge/MS_Information_Systems-C8102E?style=for-the-badge&logo=academia&logoColor=white)
+<img src="https://img.shields.io/badge/Databricks_Lakehouse-0f172a?style=flat-square&logo=databricks&logoColor=FF3621"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IBM_Data_Engineering-0f172a?style=flat-square&logo=ibm&logoColor=1F70C1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MS_Information_Systems_@_NJIT-0f172a?style=flat-square&logo=academia&logoColor=C8102E"/>
 
 </div>
 
----
+<br/>
+
+<!-- ╭─ GLASS QUOTE ─────────────────────────────────────────╮ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"/> &nbsp;Thought of the Day
 
 <div align="center">
 
-```
-> echo "thanks for adventuring through my realm — now go mine something 🪓"
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b00,50:2d9e00,100:5BFF4E&height=120&section=footer" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ╭─ MORPHISM FOOTER ──────────────────────────────────────╮ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=thanks%20for%20scrolling%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+
+<sub><i>Crafted with gradients, glass, and a lot of coffee ☕ · © Tarun Tarikere</i></sub>
 
 </div>
