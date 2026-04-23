@@ -190,7 +190,7 @@
 + Audio-feature recommendation engine
 + NLP-based text feature extraction
 + XGBoost popularity predictor — 82% acc
-! batch  →  insight in one pipeline
+! batch → insight in one pipeline
 ```
 
 <p>
