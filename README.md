@@ -1,5 +1,5 @@
 
-readme = '''<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  TARUN TARIKERE — DATA ENGINEER PROFILE README                        -->
 <!--  Theme: "Control Room" — Dark infrastructure aesthetic                -->
 <!--  Designed to impress Staff+ Data Engineers & Hiring Managers          -->
