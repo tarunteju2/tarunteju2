@@ -7,7 +7,7 @@
 
 <!-- ─── ANIMATED HERO ─── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=TARUN+TARIKERE;DATA+ENGINEER+%7C+PIPELINE+ARCHITECT;REAL-TIME+STREAMING+%C2%B7+LAKEHOUSES+%C2%B7+OBSERVABILITY;AWS+%7C+AZURE+%7C+KAFKA+%7C+SPARK+%7C+AIRFLOW+%7C+DBT" alt="Hero Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=TARUN;DATA+ENGINEER+%7C+PIPELINE+ARCHITECT;REAL-TIME+STREAMING+%C2%B7+LAKEHOUSES+%C2%B7+OBSERVABILITY;AWS+%7C+AZURE+%7C+KAFKA+%7C+SPARK+%7C+AIRFLOW+%7C+DBT" alt="Hero Typing" />
 </p>
 
 <p align="center">
