@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 116" role="img" aria-labelledby="title desc">
+  <title id="title">Production SLO telemetry</title>
+  <desc id="desc">Five production impact metrics: ETL cost, analysis time, uptime, latency, and loan document velocity.</desc>
+  <style>
+    .bg{fill:#090b10}.card{fill:#0d1117;stroke:#26313d}.label{fill:#7d8b99;font:11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1px}.value{fill:#00ff9d;font:700 23px ui-monospace,SFMono-Regular,Menlo,monospace}.detail{fill:#e6edf3;font:11px ui-monospace,SFMono-Regular,Menlo,monospace}.gold{fill:#f5a623}.live{animation:live 2.4s ease-in-out infinite}@keyframes live{50%{opacity:.6}}
+  </style>
+  <rect class="bg" width="1200" height="116" rx="14"/>
+  <g transform="translate(10 10)"><rect class="card" width="220" height="96" rx="9"/><text x="16" y="25" class="label">ETL_COST_DELTA</text><text x="16" y="57" class="value">−40%</text><text x="16" y="79" class="detail">Glue · pruning · bookmarks</text></g>
+  <g transform="translate(250 10)"><rect class="card" width="220" height="96" rx="9"/><text x="16" y="25" class="label">ANALYSIS_TIME_SAVED</text><text x="16" y="57" class="value">88%</text><text x="16" y="79" class="detail">17h → 2h / week</text></g>
+  <g transform="translate(490 10)"><rect class="card" width="220" height="96" rx="9"/><text x="16" y="25" class="label">SYSTEM_UPTIME</text><text x="16" y="57" class="value">99.99%</text><text x="16" y="79" class="detail">10K+ records · p99 &lt;100ms</text></g>
+  <g transform="translate(730 10)"><rect class="card" width="220" height="96" rx="9"/><text x="16" y="25" class="label">PIPELINE_P95_LATENCY</text><text x="16" y="57" class="value">&lt; 5s</text><text x="16" y="79" class="detail">16 services · 7,700+ claims</text></g>
+  <g transform="translate(970 10)"><rect class="card" width="220" height="96" rx="9"/><text x="16" y="25" class="label">LOAN_DOC_VELOCITY</text><text x="16" y="57" class="value">+30%</text><text x="16" y="79" class="detail">50K+ loans processed</text></g>
+  <circle class="live" cx="1180" cy="18" r="3" fill="#f5a623"/>
+</svg>
