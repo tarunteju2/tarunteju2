@@ -77,9 +77,9 @@
 </h2>
 
 <p align="center">
-  <i>Data Engineer specializing in <b>batch and streaming pipelines</b> on <b>AWS</b> and <b>Azure</b>.</i><br>
-  <i>I build observable, cost-efficient data infrastructure that scales from thousands to millions of events.</i><br>
-  <i>Currently architecting AI-driven automation and real-time analytics at <b>Wayfair</b>.</i>
+  <i>Data Engineer building <b>observable batch and streaming systems</b> across <b>AWS</b>, <b>Azure</b>, and AI/ML.</i><br>
+  <i>I turn messy operational data into reliable pipelines, measurable insights, and production-ready automation.</i><br>
+  <i>Focused on practical data infrastructure: clear contracts, fast feedback, and systems people can trust.</i>
 </p>
 
 <p align="center">
