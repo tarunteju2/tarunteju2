@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Tarun's distributed systems control plane</title>
+  <desc id="desc">A dark terminal boot sequence identifying Tarun as a data engineer and AI infrastructure builder.</desc>
+  <style>
+    .bg{fill:#090b10}.panel{fill:#0d1117;stroke:#26313d;stroke-width:2}.muted{fill:#7d8b99;font:14px ui-monospace,SFMono-Regular,Menlo,monospace}.text{fill:#e6edf3;font:600 20px ui-monospace,SFMono-Regular,Menlo,monospace}.green{fill:#00ff9d}.gold{fill:#f5a623}.small{font-size:16px;font-weight:400}.cursor{animation:blink 1.1s steps(2,start) infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}@keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.45}}
+  </style>
+  <rect class="bg" width="1200" height="330" rx="18"/>
+  <rect class="panel" x="24" y="24" width="1152" height="282" rx="12"/>
+  <circle cx="54" cy="54" r="6" fill="#ff5f56"/><circle cx="76" cy="54" r="6" fill="#ffbd2e"/><circle cx="98" cy="54" r="6" fill="#27c93f"/>
+  <text x="124" y="60" class="muted">tarun@control-plane — zsh — 120×28</text>
+  <text x="58" y="112" class="text"><tspan class="green">tarun@control-plane</tspan><tspan class="muted">:</tspan><tspan class="gold">~</tspan><tspan class="muted">$ </tspan><tspan>./whoami --verbose</tspan></text>
+  <text x="58" y="153" class="text small"><tspan class="green">[ OK ]</tspan><tspan> identity: Tarun Tarikere Venkatesha</tspan></text>
+  <text x="58" y="181" class="text small"><tspan class="green">[ LIVE ]</tspan><tspan> role: Data Engineer · AI Infrastructure · Distributed Systems</tspan></text>
+  <text x="58" y="209" class="text small"><tspan class="green">[ OK ]</tspan><tspan> location: Jersey City, NJ · NJIT MS Information Systems (3.75 GPA)</tspan></text>
+  <text x="58" y="255" class="text"><tspan class="green">tarun@control-plane</tspan><tspan class="muted">:</tspan><tspan class="gold">~</tspan><tspan class="muted">$ </tspan><tspan>I build self-healing data pipelines, autonomous AI control planes,</tspan></text>
+  <text x="58" y="282" class="text"><tspan>and distributed systems that don't page you at 3 AM</tspan><tspan class="green cursor">█</tspan></text>
+  <circle class="pulse" cx="1132" cy="274" r="4" fill="#00ff9d"/>
+</svg>
