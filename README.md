@@ -9,6 +9,10 @@
   <a href="https://github.com/tarunteju2">--resume</a>
 </p>
 
+<div align="center">
+  <img src="./assets/telemetry-grid.svg" alt="Live distributed systems telemetry grid" width="100%" />
+</div>
+
 > **Operating thesis:** reliability is a feature. I build self-healing data pipelines, autonomous AI control planes, and distributed systems that don't page you at 3 AM.
 
 <div align="center">
